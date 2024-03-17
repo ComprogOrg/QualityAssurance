@@ -42,8 +42,8 @@ public class DescriptiveFinalESC {
 
                     //array declarations for weekdays, hours worked required for salary calculation, and deductions per hour.
                     String[] WeekDays = {"FRIDAY", "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY"}; //weekdays. friday is index 0, monday 1, so on.
-                    double[] TimeLogIn = {7.83, 7, 6, 5, 4, 3, 2, 1, 0}; //hours required worked for salary deduction.
-                    double[] PerHour = {0, 1, 2, 3, 4, 5, 6, 7, 8}; //hourly salary * deduction/s per hour.
+                    double[] TimeLogIn = {8.82, 8, 7, 6, 5, 4, 3, 2, 1, 0}; //hours required worked for salary deduction.
+                    double[] PerHour = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}; //hourly salary * deduction/s per hour.
 
                     // declarations of variables for calculation + user prompt for login and logout.
                     double TotalDeduction = 0;
